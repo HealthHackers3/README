@@ -3,6 +3,8 @@ CellVerse - Our Cell Image Database Project for Software Engineering for Bioengi
 Project Overview
 This project is a cell image database designed to facilitate the analysis and management of biological images. The system provides an intuitive user interface, central database, and tools for image processing and user tracking. It aims to simplify workflows for researchers and professionals working with large-scale cell image datasets, especially catered to people with little or no biological background.
 
+
+
 Steps to Run the Project:
 
 Please make sure you have the following installed on your system:
@@ -12,9 +14,11 @@ Please make sure you have the following installed on your system:
   
 Then clone all required repositories.
 
+
+
 Here is an overview of the active repositories:
 
-DatabaseServlet-
+- DatabaseServlet-
 The Java Database Servlet is a backend service for managing database operations in the Cell Image Database project. It connects to a PostgreSQL database, executes SQL queries dynamically via HTTP requests, and processes results into JSON format for frontend integration.
 
 Key Features:
@@ -23,7 +27,7 @@ Key Features:
 - JSON transformation of query results using Gson.
 - Error handling with clear feedback for SQL issues.
 
-Electron-Frontend-
+- Electron-Frontend-
 The Electron-Frontend is the graphical user interface for the Cell Image Database project, built with Electron and React. It provides a cross-platform desktop application for interacting with the database and performing image analysis.
 
 Key Features:
@@ -32,7 +36,7 @@ Key Features:
 - Retry mechanism connects to the React development server.
 - Development tools are preloaded for debugging.
 
-APIs-
+- APIs-
 The API layer provides endpoints for managing users, images, posts, and searches within the Cell Image Database. It ensures secure and efficient communication between the frontend and backend.
 
 Key Features :
@@ -42,5 +46,5 @@ Key Features :
 - Manage usernames, emails, and account creation dates.
 - Perform queries for images and metadata.
 
-HHDb_Manager-
+- HHDb_Manager-
 HHDb_Manager is for managing the database in the Cell Image Database project. It provides a user-friendly way to interact with and manage database tables, making administrative tasks efficient and accessible.
