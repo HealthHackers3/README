@@ -6,9 +6,9 @@ This project is a cell image database designed to facilitate the analysis and ma
 Steps to Run the Project:
 
 Please make sure you have the following installed on your system:
-- Node.js and WebStorm(for the Electron frontend)
-- ?? (for backend servlets)
-- ??(for the database)
+- Node.js
+- Electron
+- IDE for web development (recommended WebStorm)
 Then clone all required repositories.
 
 Here is an overview of the active repositories:
@@ -43,7 +43,3 @@ Key Features :
 
 HHDb_Manager-
 HHDb_Manager is for managing the database in the Cell Image Database project. It provides a user-friendly way to interact with and manage database tables, making administrative tasks efficient and accessible.
-
-Key Features
-- 
-
