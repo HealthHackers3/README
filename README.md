@@ -8,7 +8,8 @@ Steps to Run the Project:
 Please make sure you have the following installed on your system:
 - Node.js
 - Electron
-- IDE for web development (recommended WebStorm) -
+- IDE for web development (recommended WebStorm)
+  
 Then clone all required repositories.
 
 Here is an overview of the active repositories:
