@@ -1,7 +1,7 @@
-CellVerse - Our Cell Image Database Project for Software Engineering for Biomedical Engineer
+CellVerse - Our Cell Image Database Project for Software Engineering for Bioengineers
 
 Project Overview
-This project is a cell image database designed to facilitate the analysis and management of biological images. The system provides an intuitive user interface, central database, and tools for image processing and user tracking. It aims to simplify workflows for researchers and professionals working with large-scale cell image datasets, especially catered to people who have a nonbiological background.
+This project is a cell image database designed to facilitate the analysis and management of biological images. The system provides an intuitive user interface, central database, and tools for image processing and user tracking. It aims to simplify workflows for researchers and professionals working with large-scale cell image datasets, especially catered to people with little or no biological background.
 
 Steps to Run the Project:
 
